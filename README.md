@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✌ Hi there 👋
 
 <!--
 **splaa/splaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <br />
 
 Привет, меня зовут Лавринюк Андрей.</br>
-PHP Developer восновном работаю с Laravel.
-<🌱/> Я также начал изучать Rust и следить за его новостями 
+PHP Developer восновном работаю с Laravel.</br>
+🌱 Я также начал изучать Rust и следить за его новостями.
 
 <br />
 
