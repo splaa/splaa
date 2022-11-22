@@ -38,7 +38,7 @@ PHP Developer восновном работаю с Laravel.
 
 <br />
 
-<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/400px-Rust_programming_language_black_logo.svg.png" width="400" height="" />
+<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/400px-Rust_programming_language_black_logo.svg.png" width="300" height="300" />
   
 **Languages and Tools:**  
 
