@@ -28,7 +28,7 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 
 <br />
 
-<img align="right" alt="Rust logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/400px-Rust_programming_language_black_logo.svg.png" width="300" height="300" />
+<img align="right" alt="Rust logo" src="https://rust-lang.org/logos/rust-logo-256x256.png" width="300" height="300" />
 
 ### Core stack
 
@@ -53,7 +53,7 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 <code><img height="20" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img height="20" alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>
+<code><img height="20" alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ### Current focus
 
