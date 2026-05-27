@@ -18,28 +18,9 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
-
 ## Hi, I'm Andrey Lavrinyuk
 
-**PHP Developer** focused on building and maintaining production web applications with **Laravel**.
-
-I design RESTful APIs, work with relational databases, and integrate third-party services. I also explore **Rust** for performance-sensitive backends and systems programming. I run local AI workloads on **NVIDIA DGX Spark**.
-
-<br />
-
-<img align="right" alt="Rust logo" src="https://rust-lang.org/logos/rust-logo-256x256.png" width="300" height="300" />
-
-### Core stack
-
-| Area | Technologies |
-|------|----------------|
-| **Backend** | PHP 8+, Laravel, REST APIs, queues & background jobs |
-| **Data** | MySQL, PostgreSQL, Redis, Eloquent ORM |
-| **Frontend** | JavaScript, Vue.js, React, Blade templates |
-| **AI / local inference** | NVIDIA DGX Spark, CUDA, Docker Model Runner, LLM serving |
-| **Tooling** | Git, Docker, Composer, npm, Linux |
-| **In progress** | Rust, async Rust, cargo ecosystem |
+**PHP / Laravel Developer** — production web apps, REST APIs, databases, third-party integrations. Also building with **Rust** and running local AI on **NVIDIA DGX Spark**.
 
 ### Languages & tools
 
@@ -54,6 +35,17 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 <code><img height="20" alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+
+### Core stack
+
+| Area | Technologies |
+|:-----|:-------------|
+| **Backend** | Laravel, REST APIs, queues, background jobs |
+| **Data** | MySQL, PostgreSQL, Redis, Eloquent ORM |
+| **Frontend** | JavaScript, Vue.js, React, Blade |
+| **AI / local inference** | NVIDIA DGX Spark, CUDA, Docker Model Runner, LLM serving |
+| **Tooling** | Git, Docker, Composer, npm, Linux |
+| **In progress** | Rust, async patterns, Cargo |
 
 ### Current focus
 
