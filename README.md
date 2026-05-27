@@ -1,21 +1,7 @@
-### ✌ Hi there 👋
+### Hi there 👋
 
-<!--
-**splaa/splaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -23,10 +9,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/your_profile">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -34,25 +20,42 @@ Here are some ideas to get you started:
 
 <br />
 
-## Привет, меня зовут Лавринюк Андрей.
-PHP Developer восновном работаю с Laravel.</br>
-🌱 Я также начал изучать Rust и следить за его новостями.
+## Hi, I'm Andrey Lavrinyuk
+
+**PHP Developer** focused on building and maintaining production web applications with **Laravel**.
+
+I design RESTful APIs, work with relational databases, and integrate third-party services. I also explore **Rust** for performance-sensitive backends and systems programming.
 
 <br />
 
-<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/400px-Rust_programming_language_black_logo.svg.png" width="300" height="300" />
-  
-**Languages and Tools:**  
+<img align="right" alt="Rust logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/400px-Rust_programming_language_black_logo.svg.png" width="300" height="300" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+### Core stack
 
-🚧 **Мои задачи на ближайшее время:**
+| Area | Technologies |
+|------|----------------|
+| **Backend** | PHP 8+, Laravel, REST APIs, queues & background jobs |
+| **Data** | MySQL, PostgreSQL, Redis, Eloquent ORM |
+| **Frontend** | JavaScript, Vue.js, React, Blade templates |
+| **Tooling** | Git, Docker, Composer, npm, Linux |
+| **In progress** | Rust, async Rust, cargo ecosystem |
+
+### Languages & tools
+
+<code><img height="20" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+<code><img height="20" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>
+
+### Current focus
+
 <!-- TODO-IST:START -->
-* [ ] Rust 
+- [ ] Deepen Rust: ownership, error handling, and async patterns
+- [ ] Ship a small side project combining Laravel APIs with Rust services
 <!-- TODO-IST:END -->
