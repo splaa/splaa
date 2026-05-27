@@ -24,7 +24,7 @@
 
 **PHP Developer** focused on building and maintaining production web applications with **Laravel**.
 
-I design RESTful APIs, work with relational databases, and integrate third-party services. I also explore **Rust** for performance-sensitive backends and systems programming.
+I design RESTful APIs, work with relational databases, and integrate third-party services. I also explore **Rust** for performance-sensitive backends and systems programming. I run local AI workloads on **NVIDIA DGX Spark**.
 
 <br />
 
@@ -37,6 +37,7 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 | **Backend** | PHP 8+, Laravel, REST APIs, queues & background jobs |
 | **Data** | MySQL, PostgreSQL, Redis, Eloquent ORM |
 | **Frontend** | JavaScript, Vue.js, React, Blade templates |
+| **AI / local inference** | NVIDIA DGX Spark, CUDA, Docker Model Runner, LLM serving |
 | **Tooling** | Git, Docker, Composer, npm, Linux |
 | **In progress** | Rust, async Rust, cargo ecosystem |
 
@@ -50,6 +51,7 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 <code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="20" alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>
 
@@ -58,4 +60,5 @@ I design RESTful APIs, work with relational databases, and integrate third-party
 <!-- TODO-IST:START -->
 - [ ] Deepen Rust: ownership, error handling, and async patterns
 - [ ] Ship a small side project combining Laravel APIs with Rust services
+- [ ] Expand local AI workflows on NVIDIA DGX Spark (model serving & automation)
 <!-- TODO-IST:END -->
